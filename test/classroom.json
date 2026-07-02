@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "test",
+  "short_name": "test",
+  "term": "poo",
+  "org": "UESORG",
+  "team": {
+    "id": 18309542,
+    "slug": "classroom50-test"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18309543,
+      "slug": "classroom50-test-instructor"
+    },
+    "ta": {
+      "id": 18309544,
+      "slug": "classroom50-test-ta"
+    }
+  }
+}
