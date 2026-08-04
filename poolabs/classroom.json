@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "POOLabs",
+  "short_name": "poolabs",
+  "term": "",
+  "org": "UESORG",
+  "team": {
+    "id": 18845516,
+    "slug": "classroom50-poolabs"
+  },
+  "teams": {
+    "teacher": {
+      "id": 18845517,
+      "slug": "classroom50-poolabs-teacher"
+    },
+    "hta": {
+      "id": 18845518,
+      "slug": "classroom50-poolabs-hta"
+    },
+    "ta": {
+      "id": 18845519,
+      "slug": "classroom50-poolabs-ta"
+    }
+  }
+}
