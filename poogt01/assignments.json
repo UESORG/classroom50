@@ -13,6 +13,20 @@
         "branch": "main"
       },
       "description": "testlab1",
+      "due": "2026-08-05T01:30:00Z",
+      "due_meta": {
+        "input": "2026-08-04T19:30:00",
+        "zone": "America/El_Salvador",
+        "offset": "-06:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-08-04T23:30:00Z",
+      "available_from_meta": {
+        "input": "2026-08-04T17:30:00",
+        "zone": "America/El_Salvador",
+        "offset": "-06:00",
+        "source": "auto-detected"
+      },
       "tests": [
         {
           "name": "testLab1",
