@@ -1,4 +1,43 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "testlab1": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "etriguertest",
+          "first_name": "Erick",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "poogt01",
+              "assignment_type": "individual",
+              "owner": "etriguertest",
+              "submission": "submit/2026-08-05T16-20-32Z-d0c5644",
+              "commit": "https://github.com/UESORG/poogt01-testlab1-etriguertest/commit/d0c5644abba6950b2f1cb22f2b067c2a54fc86e9",
+              "release": "https://github.com/UESORG/poogt01-testlab1-etriguertest/releases/tag/submit%2F2026-08-05T16-20-32Z-d0c5644",
+              "review": "https://github.com/UESORG/poogt01-testlab1-etriguertest/compare/14f2b1671b6d6cfb289eb79577b1394631e5cff1...d0c5644abba6950b2f1cb22f2b067c2a54fc86e9",
+              "datetime": "2026-08-05T16:20:00Z",
+              "graded_at": "2026-08-05T16:20:47Z",
+              "score": 10,
+              "max-score": 10,
+              "tests": [
+                {
+                  "test-name": "testruncomand",
+                  "passed": true,
+                  "score": 10,
+                  "max-score": 10
+                }
+              ],
+              "submitted_by": {
+                "username": "etriguertest",
+                "id": 176969378
+              },
+              "late": false
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
