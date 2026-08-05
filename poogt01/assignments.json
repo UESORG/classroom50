@@ -1,4 +1,39 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "testlab1",
+      "name": "TestLab1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "UESORG",
+        "repo": "Laboratorio_POO_GT01",
+        "branch": "main"
+      },
+      "due": "2026-08-05T16:25:00Z",
+      "due_meta": {
+        "input": "2026-08-05T10:25:00",
+        "zone": "America/El_Salvador",
+        "offset": "-06:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-08-05T16:10:00Z",
+      "available_from_meta": {
+        "input": "2026-08-05T10:10:00",
+        "zone": "America/El_Salvador",
+        "offset": "-06:00",
+        "source": "auto-detected"
+      },
+      "tests": [
+        {
+          "name": "testruncomand",
+          "type": "run",
+          "run": "chmod +x ./.github/scripts/validate.sh && ./.github/scripts/validate.sh",
+          "points": 10
+        }
+      ]
+    }
+  ]
 }
