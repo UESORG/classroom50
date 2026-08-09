@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "POOGT03",
+  "short_name": "poogt03",
+  "term": "",
+  "org": "UESORG",
+  "team": {
+    "id": 18907960,
+    "slug": "classroom50-poogt03"
+  },
+  "teams": {
+    "teacher": {
+      "id": 18907961,
+      "slug": "classroom50-poogt03-teacher"
+    },
+    "hta": {
+      "id": 18907962,
+      "slug": "classroom50-poogt03-hta"
+    },
+    "ta": {
+      "id": 18907963,
+      "slug": "classroom50-poogt03-ta"
+    }
+  }
+}
