@@ -33,7 +33,11 @@
           "run": "chmod +x ./.github/scripts/validate.sh && ./.github/scripts/validate.sh",
           "points": 10
         }
-      ]
+      ],
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
+      }
     }
   ]
 }
