@@ -1,4 +1,25 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "lab1",
+      "name": "Lab1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "template": {
+        "owner": "UESORG",
+        "repo": "Laboratorio_POO_GT03",
+        "branch": "main"
+      },
+      "tests": [
+        {
+          "name": "Validate",
+          "type": "run",
+          "run": "chmod +x ./.github/scripts/validate.sh && ./.github/scripts/validate.sh",
+          "points": 10
+        }
+      ]
+    }
+  ]
 }
