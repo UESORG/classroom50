@@ -38,6 +38,27 @@
       "grading": {
         "mode": "auto"
       }
+    },
+    {
+      "slug": "lab1",
+      "name": "Lab1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "template": {
+        "owner": "UESORG",
+        "repo": "Laboratorio_POO_GT01",
+        "branch": "main"
+      },
+      "tests": [
+        {
+          "name": "Validate",
+          "type": "run",
+          "run": "chmod +x ./.github/scripts/validate.sh && ./.github/scripts/validate.sh",
+          "points": 10,
+          "exit-code": 0
+        }
+      ]
     }
   ]
 }
