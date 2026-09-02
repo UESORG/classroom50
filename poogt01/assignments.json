@@ -12,6 +12,13 @@
         "repo": "Laboratorio_POO_GT01",
         "branch": "main"
       },
+      "due": "2026-09-07T00:00:00Z",
+      "due_meta": {
+        "input": "2026-09-06T18:00:00",
+        "zone": "America/El_Salvador",
+        "offset": "-06:00",
+        "source": "auto-detected"
+      },
       "available_from": "2026-09-03T00:00:00Z",
       "available_from_meta": {
         "input": "2026-09-02T18:00:00",
