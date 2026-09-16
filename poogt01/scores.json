@@ -81,6 +81,26 @@
               "tests": []
             }
           ]
+        },
+        {
+          "owner": "Edsagastume",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "poogt01",
+              "assignment_type": "individual",
+              "owner": "Edsagastume",
+              "submission": "submit/manual-2026-09-16T02-05-22Z",
+              "commit": "submit/manual-2026-09-16T02-05-22Z",
+              "release": "submit/manual-2026-09-16T02-05-22Z",
+              "review": "submit/manual-2026-09-16T02-05-22Z",
+              "datetime": "2026-09-16T02:05:22Z",
+              "score": 7,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
         }
       ]
     }
