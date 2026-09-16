@@ -38,6 +38,31 @@
           ]
         }
       ]
+    },
+    "lab1": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "Lexa1224",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "poogt01",
+              "assignment_type": "individual",
+              "owner": "Lexa1224",
+              "submission": "submit/manual-2026-09-16T01-52-50Z",
+              "commit": "submit/manual-2026-09-16T01-52-50Z",
+              "release": "submit/manual-2026-09-16T01-52-50Z",
+              "review": "submit/manual-2026-09-16T01-52-50Z",
+              "datetime": "2026-09-16T01:52:50Z",
+              "score": 10,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
+        }
+      ]
     }
   }
 }
