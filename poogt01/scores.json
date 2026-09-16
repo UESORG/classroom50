@@ -61,6 +61,26 @@
               "tests": []
             }
           ]
+        },
+        {
+          "owner": "DanielYanes-YH25001",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "poogt01",
+              "assignment_type": "individual",
+              "owner": "DanielYanes-YH25001",
+              "submission": "submit/manual-2026-09-16T01-54-26Z",
+              "commit": "submit/manual-2026-09-16T01-54-26Z",
+              "release": "submit/manual-2026-09-16T01-54-26Z",
+              "review": "submit/manual-2026-09-16T01-54-26Z",
+              "datetime": "2026-09-16T01:54:26Z",
+              "score": 10,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
         }
       ]
     }
