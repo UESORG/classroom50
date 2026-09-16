@@ -141,6 +141,26 @@
               "tests": []
             }
           ]
+        },
+        {
+          "owner": "etriguertest",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "poogt01",
+              "assignment_type": "individual",
+              "owner": "etriguertest",
+              "submission": "submit/manual-2026-09-16T02-23-41Z",
+              "commit": "submit/manual-2026-09-16T02-23-41Z",
+              "release": "submit/manual-2026-09-16T02-23-41Z",
+              "review": "submit/manual-2026-09-16T02-23-41Z",
+              "datetime": "2026-09-16T02:23:41Z",
+              "score": 3,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
         }
       ]
     }
