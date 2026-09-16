@@ -101,6 +101,26 @@
               "tests": []
             }
           ]
+        },
+        {
+          "owner": "jesb25011",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "poogt01",
+              "assignment_type": "individual",
+              "owner": "jesb25011",
+              "submission": "submit/manual-2026-09-16T02-08-01Z",
+              "commit": "submit/manual-2026-09-16T02-08-01Z",
+              "release": "submit/manual-2026-09-16T02-08-01Z",
+              "review": "submit/manual-2026-09-16T02-08-01Z",
+              "datetime": "2026-09-16T02:08:01Z",
+              "score": 10,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
         }
       ]
     }
