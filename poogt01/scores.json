@@ -121,6 +121,26 @@
               "tests": []
             }
           ]
+        },
+        {
+          "owner": "Franrecinos1991",
+          "override": true,
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "poogt01",
+              "assignment_type": "individual",
+              "owner": "Franrecinos1991",
+              "submission": "submit/manual-2026-09-16T02-15-15Z",
+              "commit": "submit/manual-2026-09-16T02-15-15Z",
+              "release": "submit/manual-2026-09-16T02-15-15Z",
+              "review": "submit/manual-2026-09-16T02-15-15Z",
+              "datetime": "2026-09-16T02:15:15Z",
+              "score": 10,
+              "max-score": 10,
+              "tests": []
+            }
+          ]
         }
       ]
     }
