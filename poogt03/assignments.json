@@ -37,7 +37,7 @@
     },
     {
       "slug": "lab2",
-      "name": "Lab1",
+      "name": "Lab2",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
