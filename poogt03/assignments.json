@@ -60,6 +60,7 @@
         "offset": "-06:00",
         "source": "auto-detected"
       },
+      "locked": true,
       "tests": [
         {
           "name": "Validate",
