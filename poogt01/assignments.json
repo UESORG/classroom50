@@ -35,6 +35,40 @@
           "exit-code": 0
         }
       ]
+    },
+    {
+      "slug": "lab2",
+      "name": "Lab2",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "template": {
+        "owner": "UESORG",
+        "repo": "Laboratorio_POO_GT01",
+        "branch": "main"
+      },
+      "due": "2026-10-05T05:59:00Z",
+      "due_meta": {
+        "input": "2026-10-04T23:59:00",
+        "zone": "America/El_Salvador",
+        "offset": "-06:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-10-01T00:00:00Z",
+      "available_from_meta": {
+        "input": "2026-09-30T18:00:00",
+        "zone": "America/El_Salvador",
+        "offset": "-06:00",
+        "source": "auto-detected"
+      },
+      "tests": [
+        {
+          "name": "Validate Lab2",
+          "type": "run",
+          "run": "chmod +x ./.github/scripts/validate.sh && ./.github/scripts/validate.sh",
+          "points": 10
+        }
+      ]
     }
   ]
 }
