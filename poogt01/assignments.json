@@ -69,6 +69,10 @@
           "points": 10
         }
       ],
+      "test_defaults": {
+        "show-output": true,
+        "show-command": true
+      },
       "locked": true
     }
   ]
