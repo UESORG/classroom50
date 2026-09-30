@@ -60,7 +60,6 @@
         "offset": "-06:00",
         "source": "auto-detected"
       },
-      "locked": true,
       "tests": [
         {
           "name": "Validate",
@@ -68,7 +67,12 @@
           "run": "chmod +x ./.github/scripts/validate.sh && ./.github/scripts/validate.sh",
           "points": 10
         }
-      ]
+      ],
+      "test_defaults": {
+        "show-output": true,
+        "show-command": true
+      },
+      "locked": true
     }
   ]
 }
