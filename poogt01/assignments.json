@@ -80,7 +80,6 @@
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
-      "no_autograder": true,
       "template": {
         "owner": "UESORG",
         "repo": "Laboratorio_POO_GT01",
@@ -99,7 +98,15 @@
         "zone": "America/El_Salvador",
         "offset": "-06:00",
         "source": "auto-detected"
-      }
+      },
+      "tests": [
+        {
+          "name": "Validacion",
+          "type": "run",
+          "run": "chmod +x ./.github/scripts/validate.sh && ./.github/scripts/validate.sh",
+          "points": 10
+        }
+      ]
     }
   ]
 }
