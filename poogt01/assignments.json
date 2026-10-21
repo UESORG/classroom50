@@ -73,6 +73,38 @@
         "show-output": true,
         "show-command": true
       }
+    },
+    {
+      "slug": "laboratorio3",
+      "name": "Laboratorio3",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "UESORG",
+        "repo": "Laboratorio_POO_GT01",
+        "branch": "main"
+      },
+      "due": "2026-10-26T05:59:00Z",
+      "due_meta": {
+        "input": "2026-10-25T23:59:00",
+        "zone": "America/El_Salvador",
+        "offset": "-06:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-10-21T17:00:00Z",
+      "available_from_meta": {
+        "input": "2026-10-21T11:00:00",
+        "zone": "America/El_Salvador",
+        "offset": "-06:00",
+        "source": "auto-detected"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
