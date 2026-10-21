@@ -92,9 +92,9 @@
         "offset": "-06:00",
         "source": "auto-detected"
       },
-      "available_from": "2026-10-22T00:00:00Z",
+      "available_from": "2026-10-21T15:46:00Z",
       "available_from_meta": {
-        "input": "2026-10-21T18:00:00",
+        "input": "2026-10-21T09:46:00",
         "zone": "America/El_Salvador",
         "offset": "-06:00",
         "source": "auto-detected"
