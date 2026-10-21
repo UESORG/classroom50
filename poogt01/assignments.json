@@ -100,6 +100,7 @@
         "offset": "-06:00",
         "source": "auto-detected"
       },
+      "locked": true,
       "grading": {
         "mode": "off"
       }
