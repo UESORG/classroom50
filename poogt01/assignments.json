@@ -103,30 +103,6 @@
       "grading": {
         "mode": "off"
       }
-    },
-    {
-      "slug": "lab4",
-      "name": "Lab4",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": false,
-      "no_autograder": true,
-      "template": {
-        "owner": "UESORG",
-        "repo": "Laboratorio_POO_GT01",
-        "branch": "main"
-      },
-      "available_from": "2026-11-10T21:06:00Z",
-      "available_from_meta": {
-        "input": "2026-11-10T15:06:00",
-        "zone": "America/El_Salvador",
-        "offset": "-06:00",
-        "source": "auto-detected"
-      },
-      "locked": true,
-      "grading": {
-        "mode": "off"
-      }
     }
   ]
 }
