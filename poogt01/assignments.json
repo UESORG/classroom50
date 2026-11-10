@@ -103,6 +103,22 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "lab4",
+      "name": "Lab4",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "no_autograder": true,
+      "template": {
+        "owner": "UESORG",
+        "repo": "Laboratorio_POO_GT01",
+        "branch": "main"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
